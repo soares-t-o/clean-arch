@@ -1,6 +1,6 @@
 module github.com/soares-t-o/clean-arch
 
-go 1.19
+go 1.18
 
 require (
 	github.com/99designs/gqlgen v0.17.22
